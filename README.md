@@ -1,6 +1,6 @@
 # K-Means
 <i>This program was part of an assignment for CSE 5334( Data Mining) at University of Texas at Arlington</i>
-
+Give a star if using this code :)
 <br><b>Function execution :</b>
 
 1. The 2D Gaussian multivariate was generated using ​ np.random.multivariate_normal(mean1,
