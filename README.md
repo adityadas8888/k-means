@@ -1,6 +1,9 @@
 # K-Means
 <i>This program was part of an assignment for CSE 5334( Data Mining) at University of Texas at Arlington</i><br>
-Give a star if using this code :)
+Give a star if using this code :) 
+
+( Also if you are a student taking CSE 5334 at UTA, and you are blatantly copying the code, kindly know that you might be caught for plagiarism. Copy at your own risk)
+
 <br><b>Function execution :</b>
 
 1. The 2D Gaussian multivariate was generated using ​ np.random.multivariate_normal(mean1,
